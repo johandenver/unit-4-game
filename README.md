@@ -54,6 +54,4 @@ Open index.html in browser to view application.
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* shout out to TA, Instructor and Tutor! 

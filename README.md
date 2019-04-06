@@ -44,7 +44,7 @@ Open index.html in browser to view application.
 ## Built With
 
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The programming language used for all logic of the    game.
-* [Bootstrap] (https://getbootstrap.com/) - Used components from toolkit for developing the HTML layout. 
+* [Bootstrap](https://getbootstrap.com/) - Used components from toolkit for developing the HTML layout. 
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - used for styling of the application.
 * [Google Fonts](https://fonts.google.com/) - Used to generate font styles.
 
